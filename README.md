@@ -1,10 +1,10 @@
 <h1 align="center" style="text-align: center;">
-  Food Explorer - API
+  Food Explorer - FrontEnd
 </h1>
 
 <p align="center">
   <a href='https://foodexplorer-frontend-topaz.vercel.app/' target="_blank">
-🚀 Acesse aqui 🚀
+🚀Acesse o projeto aqui🚀
 </a>
 </p>
 
@@ -54,10 +54,6 @@ npm run dev
 <a href='https://github.com/willdjm/foodexplorer-frontend' target='_blank'>
 https://github.com/willdjm/foodexplorer-frontend
 </a>
-
-```bash
-  https://github.com/willdjm/foodexplorer-frontend
-```
 
 ```bash
 npm install
