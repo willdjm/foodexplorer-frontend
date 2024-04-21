@@ -249,12 +249,12 @@ display: flex;
 width: 100%;
 align-items: center;
 justify-content:space-between;
-font-size: 13px;
+font-size: 10px;
 gap: 5px;
 justify-items: center;
 
 > img {
-width: 140px;
+width: 120px;
 }
 
 @media (min-width: 1024px) {
